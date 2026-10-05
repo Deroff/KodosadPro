@@ -1,0 +1,12 @@
+﻿bin/
+obj/
+.vs/
+*.user
+*.suo
+*.bak
+*.zip
+*.exe
+*.dll
+*.pdb
+database-backups/
+outputs/
